@@ -1,0 +1,13 @@
+{
+  "base_CLIP_ViT-B/16": {
+    "epochs": 12,
+    "best_val_acc": 0.9531,
+    "hf": "ShivRamSaud/upar-track1-par-clip"
+  },
+  "large_CLIP_ViT-L/14": {
+    "epochs": 5,
+    "best_val_acc": 0.9578,
+    "hf": "ShivRamSaud/upar-track1-par-large",
+    "status": "training"
+  }
+}

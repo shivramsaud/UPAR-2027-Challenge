@@ -1,0 +1,17 @@
+,{"stream_name":"stdout","time":523.485860108,"data":"indexed 157927 images\n"}
+,{"stream_name":"stdout","time":530.070130786,"data":"train kept 89001/97670\n"}
+,{"stream_name":"stdout","time":532.055265045,"data":"val kept 26444/33408\n"}
+,{"stream_name":"stdout","time":532.055307258,"data":"train/val 89001 26444\n"}
+,{"stream_name":"stdout","time":6047.225926551,"data":"ep 0 acc 0.9578 step 1390\n"}
+,{"stream_name":"stdout","time":6048.593526398,"data":"NEW BEST 0.9578\n"}
+,{"stream_name":"stdout","time":11680.514382949,"data":"ep 1 acc 0.9567 step 2780\n"}
+,{"stream_name":"stdout","time":11682.139119145,"data":"NEW BEST 0.9567\n"}
+,{"stream_name":"stdout","time":17325.743185355,"data":"ep 2 acc 0.9556 step 4170\n"}
+,{"stream_name":"stdout","time":17327.332525873,"data":"NEW BEST 0.9556\n"}
+,{"stream_name":"stdout","time":22985.891431273,"data":"ep 3 acc 0.9555 step 5560\n"}
+,{"stream_name":"stdout","time":22987.510861174,"data":"NEW BEST 0.9555\n"}
+,{"stream_name":"stdout","time":28563.937394204,"data":"ep 4 acc 0.9557 step 6950\n"}
+,{"stream_name":"stdout","time":28565.592524698,"data":"NEW BEST 0.9557\n"}
+,{"stream_name":"stdout","time":28605.053126223,"data":"DONE HF: ShivRamSaud/upar-track1-par-large\n"}
+,{"stream_name":"stdout","time":28621.285565845,"data":"BEST restored as pytorch_model.bin\n"}
+,{"stream_name":"stdout","time":28961.17001254,"data":"preds on HF\n"}
