@@ -1,0 +1,10 @@
+{
+  "base_ViTPose-S": {
+    "codabench": 0.2935
+  },
+  "large_ViTPose-L_real": {
+    "codabench": 0.8143,
+    "hf": "ShivRamSaud/upar-track3-pose-large"
+  },
+  "tta_bundle": "TRACK3_TTA_UPLOAD.zip"
+}

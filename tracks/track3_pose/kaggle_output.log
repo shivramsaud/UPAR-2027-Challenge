@@ -1,0 +1,27 @@
+,{"stream_name":"stdout","time":372.950705073,"data":"indexed 157927\n"}
+,{"stream_name":"stdout","time":373.150235754,"data":"ann images 42826 anns 42736\n"}
+,{"stream_name":"stdout","time":373.150287325,"data":"HW (256, 192)\n"}
+,{"stream_name":"stdout","time":373.890976368,"data":"pose train kept 32422/42736 REAL\n"}
+,{"stream_name":"stdout","time":374.598180257,"data":"pose val kept 32422/42736 REAL\n"}
+,{"stream_name":"stdout","time":375.109343983,"data":"pose val kept 32422/42736 REAL\n"}
+,{"stream_name":"stdout","time":375.109383044,"data":"train/val 30801 1621\n"}
+,{"stream_name":"stdout","time":1539.638210463,"data":"ep 0 train 0.01646 val 0.00082 step 481\n"}
+,{"stream_name":"stdout","time":2724.500416399,"data":"ep 1 train 0.00062 val 0.00055 step 962\n"}
+,{"stream_name":"stdout","time":3914.662451239,"data":"ep 2 train 0.00051 val 0.00051 step 1443\n"}
+,{"stream_name":"stdout","time":5103.584478695,"data":"ep 3 train 0.00047 val 0.00050 step 1924\n"}
+,{"stream_name":"stdout","time":6293.481096276,"data":"ep 4 train 0.00044 val 0.00048 step 2886\n"}
+,{"stream_name":"stdout","time":7484.39523147,"data":"ep 5 train 0.00043 val 0.00048 step 2886\n"}
+,{"stream_name":"stdout","time":8701.543879026,"data":"ep 6 train 0.00041 val 0.00047 step 3367\n"}
+,{"stream_name":"stdout","time":9897.041843033,"data":"ep 7 train 0.00040 val 0.00048 step 3848\n"}
+,{"stream_name":"stdout","time":11084.515603326,"data":"ep 8 train 0.00038 val 0.00048 step 4329\n"}
+,{"stream_name":"stdout","time":12272.346215061,"data":"ep 9 train 0.00036 val 0.00048 step 4810\n"}
+,{"stream_name":"stdout","time":13459.944076734,"data":"ep 10 train 0.00035 val 0.00048 step 5291\n"}
+,{"stream_name":"stdout","time":14648.361054704,"data":"ep 11 train 0.00033 val 0.00050 step 5772\n"}
+,{"stream_name":"stdout","time":15838.209437814,"data":"ep 12 train 0.00031 val 0.00048 step 6253\n"}
+,{"stream_name":"stdout","time":17028.624809293,"data":"ep 13 train 0.00029 val 0.00049 step 6734\n"}
+,{"stream_name":"stdout","time":18218.845332989,"data":"ep 14 train 0.00028 val 0.00049 step 7215\n"}
+,{"stream_name":"stdout","time":19409.686201458,"data":"ep 15 train 0.00026 val 0.00051 step 7696\n"}
+,{"stream_name":"stdout","time":20600.861101001,"data":"ep 16 train 0.00025 val 0.00050 step 8177\n"}
+,{"stream_name":"stdout","time":21793.195583388,"data":"ep 17 train 0.00022 val 0.00050 step 8658\n"}
+,{"stream_name":"stdout","time":22986.680791981,"data":"ep 18 train 0.00021 val 0.00051 step 9139\n"}
+,{"stream_name":"stdout","time":23011.070915364,"data":"DONE best_val 0.0004715949705546247\n"}
