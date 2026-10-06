@@ -1,0 +1,7 @@
+{
+  "CLIP_ViT-B/16_calibrated": {
+    "epochs": 10,
+    "best_val_acc": 0.9485,
+    "hf": "ShivRamSaud/upar-track2-retrieval"
+  }
+}

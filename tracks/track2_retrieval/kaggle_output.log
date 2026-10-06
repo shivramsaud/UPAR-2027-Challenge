@@ -1,0 +1,14 @@
+,{"stream_name":"stdout","time":592.838083384,"data":"indexed 157927 images\n"}
+,{"stream_name":"stdout","time":599.41471173,"data":"train kept 89001/97670\n"}
+,{"stream_name":"stdout","time":601.437696455,"data":"val kept 26444/33408\n"}
+,{"stream_name":"stdout","time":2174.939678147,"data":"ep 0 acc 0.9454\n"}
+,{"stream_name":"stdout","time":3769.341739121,"data":"ep 1 acc 0.9483\n"}
+,{"stream_name":"stdout","time":5365.73917252,"data":"ep 2 acc 0.9483\n"}
+,{"stream_name":"stdout","time":6960.453496674,"data":"ep 3 acc 0.9485\n"}
+,{"stream_name":"stdout","time":8558.572297067,"data":"ep 4 acc 0.9484\n"}
+,{"stream_name":"stdout","time":10154.258075503,"data":"ep 5 acc 0.9444\n"}
+,{"stream_name":"stdout","time":11751.264731271,"data":"ep 6 acc 0.9458\n"}
+,{"stream_name":"stdout","time":13346.810564702,"data":"ep 7 acc 0.9464\n"}
+,{"stream_name":"stdout","time":14944.332035169,"data":"ep 8 acc 0.9476\n"}
+,{"stream_name":"stdout","time":16541.562890911,"data":"ep 9 acc 0.9468\n"}
+,{"stream_name":"stdout","time":16548.858355503,"data":"DONE ShivRamSaud/upar-track2-retrieval\n"}
